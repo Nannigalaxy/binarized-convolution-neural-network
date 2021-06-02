@@ -19,7 +19,7 @@ This repo is fork of [BinaryNet_and_XNORNet](https://github.com/yaysummeriscomin
 
 ## Result
 XNOR Net on test dataset
-![](results/xnor_pred.png)
+![](bnn/results/xnor_pred.png)
 
 
 ### Contribution is appreciated
